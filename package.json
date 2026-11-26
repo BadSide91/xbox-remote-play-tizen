@@ -1,10 +1,10 @@
 {
   "name": "xbox-remote-play-tizen",
   "appName": "Xbox Remote Play",
-  "version": "6.7.12-1",
-  "description": "Better xCloud 6.7.12 for Xbox Remote Play on Samsung Tizen 10",
+  "version": "6.7.12-2",
+  "description": "Better xCloud 6.7.12 for Xbox Remote Play on Samsung Tizen 10; persistent compatible Remote Play client",
   "packageType": "mods",
-  "websiteURL": "https://www.xbox.com/en-US/play",
+  "websiteURL": "https://www.xbox.com/remoteplay",
   "main": "bx-wrapper.js",
   "serviceFile": "service.js",
   "keys": [],
